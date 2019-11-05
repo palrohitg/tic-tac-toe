@@ -1,4 +1,5 @@
 2016.08.16 Version 1.2.5
+initial change
 
 * Fixed regression in noconflict mode
 
